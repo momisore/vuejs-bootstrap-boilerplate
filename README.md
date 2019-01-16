@@ -1,5 +1,5 @@
 # vue-sandbox
-
+You can use this as a starting point for your VueJS and Vue-BootStrap application
 ## Project setup
 ```
 npm install
