@@ -1,4 +1,4 @@
-# vue-sandbox
+# vue-bootstrap-boilerplate
 You can use this as a starting point for your VueJS and Vue-BootStrap application
 ## Project setup
 ```
